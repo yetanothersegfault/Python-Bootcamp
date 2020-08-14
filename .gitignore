@@ -1,2 +1,5 @@
 # Ignore the Notebook directory.
 Notebooks/
+
+# Hide the Pycharm env files
+.idea
